@@ -24,7 +24,6 @@
 <h3 align="center" style="color: #FF0000;">Self Learning | Python</h3>
 
   <p align="center" style="color: #FF0000;">
-    Self learning of Python with free videos.
     <br />
     <a href="https://github.com/Wilkersonn/Self-Learning-Python"><strong>Explore the docs »</strong></a>
     <br />
@@ -36,33 +35,6 @@
     <a href="https://github.com/Wilkersonn/Self-Learning-Python/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary style="color: #FF0000;">Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project" style="color: #FF0000;">About The Project</a>
-      <ul>
-        <li><a href="#built-with" style="color: #FF0000;">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started" style="color: #FF0000;">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites" style="color: #FF0000;">Prerequisites</a></li>
-        <li><a href="#installation" style="color: #FF0000;">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage" style="color: #FF0000;">Usage</a></li>
-    <li><a href="#roadmap" style="color: #FF0000;">Roadmap</a></li>
-    <li><a href="#contributing" style="color: #FF0000;">Contributing</a></li>
-    <li><a href="#license" style="color: #FF0000;">License</a></li>
-    <li><a href="#contact" style="color: #FF0000;">Contact</a></li>
-    <li><a href="#acknowledgments" style="color: #FF0000;">Acknowledgments</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
