@@ -24,7 +24,7 @@
 <h3 align="center" style="color: #FF0000;">Self Learning | Python</h3>
 
   <p align="center" style="color: #FF0000;">
-    This project focuses on learning Python by exploring various programming concepts and data structures. Throughout my coding journey, I am committed to writing clear and detailed descriptions within my code to explain what I am learning. This approach helps me solidify my understanding of Python while enhancing my programming skills. By documenting my thought process and the techniques I employ, I aim to create a valuable resource for both myself and others who may follow my work.
+    Self learning of Python with free videos.
     <br />
     <a href="https://github.com/Wilkersonn/Self-Learning-Python"><strong>Explore the docs »</strong></a>
     <br />
@@ -67,13 +67,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was developed by Myself, with the help of Jason Champagne.
+This project focuses on learning Python by exploring various programming concepts and data structures. Throughout my coding journey, I am committed to writing clear and detailed descriptions within my code to explain what I am learning. This approach helps me solidify my understanding of Python while enhancing my programming skills. By documenting my thought process and the techniques I employ, I aim to create a valuable resource for both myself and others who may follow my work.
 
 <p align="right">(<a href="#readme-top" style="color: #FF0000;">back to top</a>)</p>
 
 ### Built With
 
 * [![Next][Next.js]][Next-url]
+* [![Visual][vscode]][vscode-url]
 
 <p align="right">(<a href="#readme-top" style="color: #FF0000;">back to top</a>)</p>
 
