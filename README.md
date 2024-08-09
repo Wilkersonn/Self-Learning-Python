@@ -89,7 +89,7 @@ Before you begin, we recommend that you:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top" style="color: #FF0000;">back to top</a>)</p>
 
