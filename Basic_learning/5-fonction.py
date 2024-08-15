@@ -82,3 +82,11 @@ def compare_number(n1, n2):
     else:
         return "EQUALITY!"
 
+# lamba fonction (a fonction that do one thing)
+
+lambdafonction = lambda:print("Hello")
+
+lambdafonction()
+
+
+
